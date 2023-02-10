@@ -6,7 +6,7 @@ import Salon from './Salon';
 export default function Maison() {
   return (
     <div>
-       <h1>Maison</h1> 
+       <h1 className='home'>Maison</h1> 
        <ul>
             <li>
                 < Chambre/>

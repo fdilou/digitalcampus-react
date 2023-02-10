@@ -1,39 +1,4 @@
-
-*{
-  background-color: red;
-  color: aliceblue;
-  text-align: center;
-  margin: 3px;
-  padding: 3px;
-
-}
-.ferrarie{
-  background-color:blue;
-  color: aliceblue;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -70,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
